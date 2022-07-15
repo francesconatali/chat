@@ -7,3 +7,5 @@ Although there are many chat apps, I wanted to challenge myself by developing my
 - Run "npm install" to install all the modules<br>
 - Run "npm run dev" to run the server<br>
 - Open your browser at "http://localhost:1234"
+<br><br>
+Also, if you change the SCSS/CSS, remember to run "npm run prefix:css" to automatically add vendor prefixes.
